@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/LuaPort/!svn/ver/42/trunk/Library/Darwin
+END
+libLuaPortD.a
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/LuaPort/!svn/ver/42/trunk/Library/Darwin/libLuaPortD.a
+END
+liblua.a
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/LuaPort/!svn/ver/42/trunk/Library/Darwin/liblua.a
+END
+libluaD.a
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LuaPort/!svn/ver/42/trunk/Library/Darwin/libluaD.a
+END
+libLuaPort.a
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/LuaPort/!svn/ver/42/trunk/Library/Darwin/libLuaPort.a
+END

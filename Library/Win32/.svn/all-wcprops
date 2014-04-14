@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/LuaPort/!svn/ver/37/trunk/Library/Win32
+END
+LuaPortD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/LuaPort/!svn/ver/37/trunk/Library/Win32/LuaPortD.lib
+END
+Lua.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/LuaPort/!svn/ver/37/trunk/Library/Win32/Lua.lib
+END
+LuaD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LuaPort/!svn/ver/37/trunk/Library/Win32/LuaD.lib
+END
+LuaPort.lib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/LuaPort/!svn/ver/37/trunk/Library/Win32/LuaPort.lib
+END
